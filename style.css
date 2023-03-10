@@ -96,7 +96,7 @@
         width: 311px;
         height: 47px;
         border-radius: 27px;
-        border: solid 1px hsl(0, 36%, 70%) ;
+        border: solid 1px #ce9797 ;
         outline: none;
         padding-left: 20px;
         color: var(--Desaturated-Red);
